@@ -1,6 +1,6 @@
 This tool is used to decrypt Android applications that use dynamic AES encryption
 
-To use this tool you must follow these steps:
+To use this tool you must follow these steps:\n
 1.install jython
 2.install pycrypto
 https://github.com/csm/jycrypto
