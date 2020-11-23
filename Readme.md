@@ -17,3 +17,5 @@ edit hook-aes.py
 process = frida.get_usb_device (1) .attach ('app') change app with your app name
 
 5.run hook-aes.py
+
+#Created By XCZ Team
